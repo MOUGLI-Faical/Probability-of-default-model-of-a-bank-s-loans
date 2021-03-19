@@ -17,7 +17,7 @@ Démarche :
  
 2- Application :
 
-    2-1:apreçu
+  2-1:apreçu
      Pour notre cas d’étude nous avons une base de donnée avec 77 431 observations(soient 77431 clients), pour chaque client nous avons associé 23 variables(7 quantitatives, 16 qualitatives).
      Pour pouvoir modéliser la solvabilité avec une régression logistique nous aurons besoin d’expliquer la solvabilité (étant une variable catégorielle ‘solvable’=1 ou ‘non solvable’=0) par des variables quantitatives.
     Pour ce faire, nous allons nous contenter de faire un modèle de régression logistique multivariée de 7 variables quantitatives.
@@ -51,7 +51,7 @@ seaborn et pandas : pour l’analyse statistique
  
 En arrivant à cette étape notre modèle est constriut, mais reste à le tester pour le valider.
 
-2-5: Test du modèle:
+  2-5: Test du modèle:
 La matrice de confusion est une matrice qui mesure la qualité d'un système de classification. Chaque ligne correspond à une classe réelle, chaque colonne correspond à une classe estimée. La cellule ligne L, colonne C contient le nombre d'éléments de la classe réelle L qui ont été estimés comme appartenant à la classe C.
  
 20954 observations qui sont égales à 1 ont été bien prédites par le modèle des 1.
