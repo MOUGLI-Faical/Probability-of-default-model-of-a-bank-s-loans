@@ -62,4 +62,4 @@ La matrice de confusion est une matrice qui mesure la qualité d'un système de 
 Notre modèle est de 90% de précision ce qui est jugé un bon résultat.
 
 Conclusion:
-Notre modèle précise que les variables choisies détermine bien la solvabilité, et avec une précision de 90%, notre modèle est capable de prédire si un client est solvable ou pas.
+Notre modèle précise que les variables choisies déterminent bien la solvabilité, et avec une précision de 90%, notre modèle est capable de prédire si un client est solvable ou pas.
